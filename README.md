@@ -1,5 +1,11 @@
-it might not work it might work i dont know its still being coded but1
-1 this isnt for java
-2 this is made for fun
-3 dont use the ruby wand
-4 you can't use this on a survival world that you want achievements on its an external BP and will disable achievements womp womp
+# Mindustry Portal Mod
+
+> Still being actively developed - features may change
+
+## Notes
+
+1. This mod is for **Mindustry**, not Java/Minecraft
+2. Made for fun and experimental purposes
+3. If it doesn't work it doesn't work womp womp
+
+PS: Report any issues to me!
